@@ -1,6 +1,7 @@
 # Employee Retention Analysis Project
 
 📌 Project Overview
+
 This project analyzes employee retention data to identify key factors influencing employee turnover. Using Exploratory Data Analysis (EDA), Data Visualization, and Logistic Regression, predicting whether employees are likely to leave the company based on features like salary, department, job satisfaction, and promotions.
 
 🔍 Key Questions Answered
