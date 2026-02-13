@@ -11,9 +11,9 @@ How do salary levels impact retention?
 Which departments have the highest attrition rates?
 Can we predict employee retention using machine learning?
 
-📝 Google Colab Notebook Name
+📝 Google Colab link
 
-EmployeeRetentionAnalysis.ipynb
+https://colab.research.google.com/github/DorcasMutsa/EmployeeRetentionAnalysis/blob/main/EmployeeRetentionAnalysis.ipynb
 
 🔧 Technologies & Libraries Used
 
